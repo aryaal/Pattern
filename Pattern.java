@@ -13,7 +13,7 @@ public class Pattern
 			}
 			
 		
-		for(int j=1;j<=star;j++)
+		for(int j=1;j<=s;j++)
 		{
 			
 			System.out.print("*");
