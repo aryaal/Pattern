@@ -3,7 +3,7 @@ public class Pattern
 {
 	public static void main(String[] args)
 	{	int n=3;
-		int star=1;
+		int s=1;
 		
 		for(int i=n;i>=1;i--)
 		{
@@ -19,7 +19,7 @@ public class Pattern
 			System.out.print("*");
 		}
 		System.out.println();
-		star+=2;
+		s+=2;
 		}
 	}
 }
